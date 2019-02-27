@@ -11,7 +11,7 @@ TEl: +1 514889235
 ![image](https://github.com/MMK460/NuoMi/blob/master/102121.png)
 
 
-# 2.【How to Play HELLO-PinBall】
+# 2.【How to Play】
 
 Your mission: 
 
